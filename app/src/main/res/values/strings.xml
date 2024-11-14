@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MftProject</string>
+    <string name="signup">Signup !</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email (Optional)</string>
+    <string name="phone">Phone (Optional)</string>
+    <string name="repeatPassword">Repeat Password</string>
+    <string name="backToLogin">Back to login</string>
+    <string name="full_name_cannot_be_empty">Full Name cannot be empty</string>
+    <string name="username_cannot_be_empty">Username cannot be empty</string>
+    <string name="repeatPassword_and_password_not_same">Password and repeat password are not the same</string>
+    <string name="signup_successfully">Signup Successfully !</string>
+    <string name="ok">Ok</string>
+    <string name="remember_me">Remember me</string>
+    <string name="password_cannot_be_empty">Password cannot be empty</string>
+    <string name="incorrext_username_or_password">Invalid username or password</string>
+    <string name="undo">undo</string>
+</resources>
